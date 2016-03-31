@@ -33,3 +33,18 @@ hr.sep {
 	background: -webkit-linear-gradient(left, #C9C9C9, #FFFFFF, #C9C9C9);
 }
 
+#footer {
+	padding: 20px 0;
+	text-align: center;
+}
+
+i.icon {
+	width: 40px;
+	height: 40px;
+	display: inline-block;
+}
+
+i.icon.email {
+	background-image: url("email_icon.png");
+}
+
