@@ -1,4 +1,4 @@
-https://horeilly2.github.io
+https://horeilly.github.io
 ===================
 
 ## Harry O'Reilly Personal Homepage
@@ -6,7 +6,7 @@ https://horeilly2.github.io
 This is my portfolio the MSAN Data Visualization Class!
 
 My Github user page is at:
-https://github.com/horeilly2/
+https://github.com/horeilly/
 
 My Github Pages repo can be found at:
-https://github.com/horeilly2/horeilly2.github.io
+https://github.com/horeilly/horeilly.github.io
