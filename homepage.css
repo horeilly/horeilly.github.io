@@ -12,14 +12,24 @@ body {
 	background-color: #646464;
 	font-family: "Gravity";
     font-size: 18pt;
+    margin-left: 2in;
+    margin-right: 2in;   
 }
 
-h1 {
+div.space {
+	height: 1in;
+}
+
+#title {
 	text-align: center;
 	font-family: "OJ";
 	font-size: 50pt;
 }
 
-h1 span {
-	border-bottom: thick dotted: #000000;
+hr.sep {
+	border: 0;
+	height: 1px;
+	width: 75%;
+	background: -webkit-linear-gradient(left, #C9C9C9, #FFFFFF, #C9C9C9);
 }
+
