@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "OJ";
+    src: url("orange_juice.ttf") format("opentype");
+}
+
+@font-face {
+	font-family: "Gravity";
+	src: url("Gravity-Book.otf") format("opentype");
+}
+
+body {
+	background-color: #646464;
+	font-family: "Gravity";
+    font-size: 18pt;
+}
+
+h1 {
+	text-align: center;
+	font-family: "OJ";
+	font-size: 50pt;
+}
+
+h1 span {
+	border-bottom: thick dotted: #000000;
+}
