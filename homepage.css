@@ -38,13 +38,19 @@ hr.sep {
 	text-align: center;
 }
 
-i.icon {
+.icon {
 	width: 40px;
 	height: 40px;
 	display: inline-block;
 }
 
-i.icon.email {
+.icon-email {
 	background-image: url("email_icon.png");
+	background-size: 40px 40px;
+}
+
+.icon-linkedin {
+	background-image: url("linkedin_icon.png");
+	background-size: 40px 40px;
 }
 
