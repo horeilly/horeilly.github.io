@@ -54,3 +54,8 @@ hr.sep {
 	background-size: 40px 40px;
 }
 
+.icon-github {
+	background-image: url("github_icon.svg");
+	background-size: 40px 40px;
+}
+
