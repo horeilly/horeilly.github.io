@@ -21,7 +21,7 @@ div.space {
 }
 
 #title {
-	text-align: left;
+	text-align: center;
 	font-family: "OJ";
 	font-size: 50pt;
 }
@@ -32,35 +32,3 @@ hr.sep {
 	width: 100%;
 	background: -webkit-linear-gradient(left, #C9C9C9, #FFFFFF, #C9C9C9);
 }
-
-#selfie {
-	height: 200px;
-	width: 200px;
-}
-
-#footer {
-	padding: 20px 0;
-	text-align: center;
-}
-
-.icon {
-	width: 40px;
-	height: 40px;
-	display: inline-block;
-}
-
-.icon-email {
-	background-image: url("email_icon.png");
-	background-size: 40px 40px;
-}
-
-.icon-linkedin {
-	background-image: url("linkedin_icon.png");
-	background-size: 40px 40px;
-}
-
-.icon-github {
-	background-image: url("github_icon.svg");
-	background-size: 40px 40px;
-}
-
