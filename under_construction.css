@@ -4,31 +4,31 @@
 }
 
 @font-face {
-	font-family: "Gravity";
-	src: url("Gravity-Book.otf") format("opentype");
+  font-family: "Gravity";
+  src: url("Gravity-Book.otf") format("opentype");
 }
 
 body {
-	background-color: #646464;
-	font-family: "Gravity";
+  background-color: #646464;
+  font-family: "Gravity";
   font-size: 14pt;
   margin-left: 2in;
   margin-right: 2in;
 }
 
 div.space {
-	height: 1in;
+  height: 1in;
 }
 
 #title {
-	text-align: center;
-	font-family: "OJ";
-	font-size: 50pt;
+  text-align: center;
+  font-family: "OJ";
+  font-size: 50pt;
 }
 
 hr.sep {
-	border: 0;
-	height: 1px;
-	width: 100%;
-	background: -webkit-linear-gradient(left, #C9C9C9, #FFFFFF, #C9C9C9);
+  border: 0;
+  height: 1px;
+  width: 100%;
+  background: -webkit-linear-gradient(left, #C9C9C9, #FFFFFF, #C9C9C9);
 }
